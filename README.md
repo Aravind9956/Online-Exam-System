@@ -1,7 +1,6 @@
 # Online-Exam-System
 A web-based Online Exami System built with Django. It provides a secure, scalable platform for conducting exams online with role-based access for students, teachers, and admins.
-
-**Features**
+# Features
 🔐 User Authentication – Secure login for students, teachers, and admins
 
 👨‍🏫 Teacher Dashboard – Create, update, and manage question papers
@@ -14,9 +13,7 @@ A web-based Online Exami System built with Django. It provides a secure, scalabl
 
 🌐 Responsive UI – Works on desktop and mobile devices
 
-
-**Tech Stack**
-
+# Tech Stack
 Backend: Django, Python
 
 Frontend: HTML, CSS, Bootstrap
